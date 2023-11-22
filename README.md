@@ -13,7 +13,7 @@ Theses examples run on SemiDrive development board which is based on SemiDrive S
 
 
 ## Software package & Docker image
-Plese contact ARM China Technical Support(Support-AI@armchina.com]) to get the required software & docker image.
+Plese contact ARM China Technical Support(Support-AI@armchina.com) to get the required software & docker image.
 
 
 
