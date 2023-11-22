@@ -351,8 +351,7 @@ Classification-example
 ### OCR模型
 | 模型名称 | 输入尺寸 | 浮点精度 | 量化精度 |
 | :-----  | :-----   | :-----  |:----- |
-| ch_ppocr_server_v2.0_det_infer | [1,3,960,608] | precision: 0.817<br> recall: 0.648<br> hmean: 0.698 | precision: 0.807<br> recall: 0.645<br> hmean: 0.691
- |
+| ch_ppocr_server_v2.0_det_infer | [1,3,960,608] | precision: 0.817<br> recall: 0.648<br> hmean: 0.698 | precision: 0.807<br> recall: 0.645<br> hmean: 0.691 |
 | ch_ppocr_server_v2.0_rec_infer | [1,3,32,320] | acc: 0.98 | acc: 0.97 |
 
 ### Segmentation模型
