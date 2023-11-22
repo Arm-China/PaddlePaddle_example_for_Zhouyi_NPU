@@ -13,7 +13,7 @@
 
 
 ## 软件包和docker镜像获取
-请联系ARM China[技术支持](Support-AI@armchina.com])获取
+请联系ARM China技术支持(Support-AI@armchina.com)获取
 
 软件包文件包括：
 ```
